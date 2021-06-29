@@ -1,0 +1,130 @@
+/*!
+ * Start Bootstrap - Blog Home (https://startbootstrap.com/template/blog-home)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-blog-home/blob/master/LICENSE)
+ */
+body {
+  /* padding-top: 56px; */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* header */
+.header {
+  width: 100%;
+  height: 100px;
+  padding: 8px;
+  background-color: #1F1F1F;
+  justify-content: center;
+  text-align: center;
+}
+.header img {
+  height: 62px;
+}
+.header h4 {
+  margin-top: 4px;
+  font-size: 15px;
+  color: white;
+}
+
+/* hr */
+hr {
+  width: 100%;
+  margin: auto;
+  border-color: #00973E;
+}
+
+/* navbar */
+.navbar {
+  background-color: #1F1F1F;
+}
+.collapse {
+  text-align: center;
+  margin: auto;
+  justify-content: center;
+  font-size: 14px;
+}
+
+/* page content - title*/
+.title {
+  margin: 36px 0 12px 0;
+}
+.title h3 {
+  color: #1F1F1F;
+  font-size: 22px;
+  font-weight: 650;
+}
+.title span {
+  color: #00973E;
+}
+
+/* page content - blog post*/
+.row {
+  padding: 24px 44px;
+}
+.card{
+  border: none;
+}
+.card-title {
+  font-size: 20px;
+}
+.footer-card {
+  margin-left: 22px;
+}
+
+.col-md-4 {
+  top: 44px;
+}
+
+/* widget */
+.card-header {
+  color: white;
+  background-color: #00973E;
+}
+.card-body img {
+  width: 140px;
+  height: 80px;
+  float: left;
+  margin-right: 4px;
+}
+.card-body h2 {
+  font-size: 16px;
+  line-height: 1.3em;
+  font-weight:normal;
+  margin:0 0 -6px 0
+}
+.card-body h3 {
+  font-size: 18px;
+  font-weight: 500;
+}
+.card-body small{
+  color: #1F1F1F;
+  font-size: 12px;
+}
+.card-body ul {
+  padding: 0;
+}
+.card-body ul li {
+  list-style: none;
+  max-width: 100%;
+  min-height: 90px;
+}
+.card-body ul li a {
+  text-decoration: none;
+}
+
+
+
+
+
+
+/* information */
+.col-lg-4 ul li a{
+  color: #1F1F1F;
+}
+
+/* footer */
+.py-5 {
+  background-color: #1F1F1F;
+}
